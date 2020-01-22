@@ -1,15 +1,16 @@
 ---
 uid: frantisek.elfmark
 name:     František Elfmark  	# běžně používáné jméno
-fullname: František Elfmark, DiS.  	# jméno s tituly etc.
+fullname: Bc. František Elfmark, DiS.  	# jméno s tituly etc.
 category:                 # kategorie
 - psp
-- clenove
 - pks
+- pms
+- clenove
 - zastupitele
 
 img: people/frantisek-elfmark.png   # 165 x 220
-description: 2. místopředseda KS Zlínský kraj, pirátský poslanec za Zlínský kraj          	# kratký popis, max 160 znaků
+description: 2. místopředseda KS Zlínský kraj<br>pirátský poslanec za Zlínský kraj <br>místopředseda MS UH          	# kratký popis, max 160 znaků
 mob:			  +420 604 171 281
 mail:
 - frantisek.elfmark@pirati.cz
